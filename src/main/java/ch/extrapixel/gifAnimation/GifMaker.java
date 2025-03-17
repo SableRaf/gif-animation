@@ -23,13 +23,14 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package gifAnimation;
+package ch.extrapixel.gifAnimation;
 
-import java.awt.Color;
-import java.awt.image.BufferedImage;
 import processing.core.PApplet;
 import processing.core.PConstants;
 import processing.core.PImage;
+
+import java.awt.*;
+import java.awt.image.BufferedImage;
 
 public class GifMaker implements PConstants {
 	public final static int DISPOSE_NOTHING = 0;

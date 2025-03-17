@@ -1,4 +1,4 @@
-# gifAnimation processing library
+# gifAnimation Processing library
 
 GifAnimation is a [Processing][1] library to play and export GIF animations.
 Original code by [Patrick Meister][5] .
@@ -24,7 +24,6 @@ Download and unzip the gifAnimation.zip and copy the gifAnimation folder into yo
 ## USAGE:
 
 Besides this reference, there are basic examples included in the download. To use gifAnimation library, you need to import it into your sketch by using the menu or typing
-
 
 ```java
 import gifAnimation.*;

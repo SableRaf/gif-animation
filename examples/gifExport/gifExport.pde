@@ -4,7 +4,7 @@
  * bar is pressed. Wow, feels like 90's! ;)
  */
 
-import gifAnimation.*;
+import ch.extrapixel.gifAnimation.*;
 import processing.opengl.*;
 
 GifMaker gifExport;

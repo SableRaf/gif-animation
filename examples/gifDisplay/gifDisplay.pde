@@ -6,7 +6,7 @@
 * the first two pause if you hit the spacebar.
 */
 
-import gifAnimation.*;
+import ch.extrapixel.gifAnimation.*;
 
 PImage[] animation;
 Gif loopingGif;

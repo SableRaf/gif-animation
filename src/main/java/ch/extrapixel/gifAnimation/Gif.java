@@ -22,12 +22,14 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package gifAnimation;
+package ch.extrapixel.gifAnimation;
+
+import processing.core.PApplet;
+import processing.core.PConstants;
+import processing.core.PImage;
 
 import java.awt.image.BufferedImage;
-import java.io.*;
-
-import processing.core.*;
+import java.io.InputStream;
 
 public class Gif extends PImage implements PConstants, Runnable {
 	private PApplet parent;
